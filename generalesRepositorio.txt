@@ -10,6 +10,6 @@ Crear nuevo repositorio2
 	git remote add origin https://github.com/neyOrdaz/repositorio2.git
 	git push -u origin main
 Actualizacion del nuevo repositorio2
-	git add README.md
+	git add .
 	git commit -m "first commit"
 	git push -u origin main
